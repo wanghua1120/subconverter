@@ -9,8 +9,6 @@ Utility to convert between various proxy subscription formats.
 
 [Docker README](https://github.com/tindy2013/subconverter/blob/master/README-docker.md)
 
-[中文文档](https://github.com/tindy2013/subconverter/blob/master/README-cn.md)
-
 - [subconverter](#subconverter)
   - [Supported Types](#supported-types)
   - [Quick Usage](#quick-usage)
